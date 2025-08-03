@@ -1,0 +1,1 @@
+I originally made when I was 12. I thought it was entertaining to take a sentence or paragraph through Google Translate a bunch of times and then translate it back into English like a game of broken telephone. So, 12-year-old me created this program to automate the process.
