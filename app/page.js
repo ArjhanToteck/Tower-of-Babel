@@ -95,8 +95,6 @@ export default function Page() {
 
 				<button disabled={inputDisabled} onClick={repeatedTranslate}>Translate</button>
 
-				<br />
-
 			</section>
 		</main>
 	);
